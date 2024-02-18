@@ -7,5 +7,5 @@
 
 - visualizacion de la posicion mientras cambia en la base de datos
 <div align="center">
-  <img src ="art/database.gif"/>
+  <img src ="art/database.png"/>
 <div>
