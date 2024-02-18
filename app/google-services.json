@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "631740059576",
+    "firebase_url": "https://sensores-76307-default-rtdb.firebaseio.com",
+    "project_id": "sensores-76307",
+    "storage_bucket": "sensores-76307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631740059576:android:e69c5ce6a4d425ec98c94d",
+        "android_client_info": {
+          "package_name": "com.projects.enzoftware.metalball"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfwe4cAQ877RmagIHrLjSpnU-ernw81-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
